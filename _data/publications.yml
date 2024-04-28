@@ -6,7 +6,7 @@ main:
     conference: 19th International Conference on Ubiquitous Robots <strong>(UR)</strong>, 2022.
     pdf: https://ieeexplore.ieee.org/document/9826249
     code: https://gitlab.com/_JackFrost_/sem-sashago
-    bibtex: https://bib.yliu.me/MICCAI23.txt
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/thesis_cover_v4.png
     notes: Accepted
 
