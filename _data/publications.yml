@@ -1,5 +1,23 @@
 main:
 
+  - title: A Scalable, Causal, and Energy Efficient Framework for Neural Decoding with Spiking Neural Networks
+    authors: <strong>Ioannis Asmanis</strong>, Georgios Mentzelopoulos, Konrad Kording, Eva L Dyer, Kostas Daniilidis, Flavia Vitale
+    conference_short: NeurIPS
+    conference: The Thirty-ninth Annual Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2026.
+    pdf: https://openreview.net/forum?id=oAbaGU9N1X
+    code: https://github.com/IoannisAsmanis/spikachu
+    image: ./assets/img/spikachu_framework.svg
+    notes: Accepted
+
+  - title: Motion-prior Contrast Maximization for Dense Continuous-Time Motion Estimation
+    authors: Friedhelm Hamann, Ziyun Wang, <strong>Ioannis Asmanis</strong>, Kenneth Chaney, Guillermo Gallego, Kostas Daniilidis
+    conference_short: ECCV
+    conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.
+    pdf: https://arxiv.org/pdf/2407.16128.pdf
+    code: https://github.com/tub-rip/MotionPriorCMax
+    image: ./assets/img/motion_prior_contrast.png
+    notes: Accepted
+
   - title: A Semantic Enhancement of Unified Geometric Representations for Improving Indoor Visual SLAM
     authors: <strong>Ioannis Asmanis</strong>, Panagiotis Mermigkas, Georgia Chalvatzaki, Jan Peters, Petros Maragos
     conference_short: UR
