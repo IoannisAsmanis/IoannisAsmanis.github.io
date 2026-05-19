@@ -3,6 +3,7 @@
 <h4 style="margin:0 10px 0;">Conference Reviews</h4>
 
 <ul style="margin:0 0 5px;">
+<li><a href="https://nfr-icra2026.com/"><autocolor>Workshop: Challenges and Opportunities of Neuromorphic Field Robotics and Automation, ICRA 2026</autocolor></a></li>
   <li><a href="https://ieee-iros.org/"><autocolor>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2021-2024</autocolor></a></li>
   <li><a href="http://2022.ubiquitousrobots.org/"><autocolor>IEEE Conference on Ubiquitous Robotics (UR) 2022</autocolor></a></li>
   <!-- <li><a href="https://eccv2022.ecva.net/"><autocolor>European Conference on Computer Vision (ECCV) 2022</autocolor></a></li> -->

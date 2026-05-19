@@ -9,14 +9,17 @@ Before this, I did my undergraduate studies at the [ECE School](https://www.ece.
 
 ## Research Interests
 
-- **Computer Vision:** event-based cameras, optical flow
-- **Machine Learning:** spiking neural networks
+- **Computer Vision & Robotics:** visual-inertial odometry, SLAM, real-time systems
+- **Asynchronous Machine Learning:** event-based cameras, spiking neural networks
 
 ## News
 
+- **[Jun 2026]** Starting internship at NASA's JPL
+- **[Dec 2026]** Presented NeurIPS paper at San Diego!
+- **[Oct 2024]** Extended internship as remote position until Jan 2025
 - **[May  2024]** Accepted summer internship position at RTX Research Center, CT.
-- **[Sep. 2022]** Started PhD at GRASP Lab.
-- **[Apr. 2022]** NTUA thesis paper accepted at UR 2022.
+- **[Sep. 2022]** Started PhD at GRASP Lab
+- **[Apr. 2022]** NTUA thesis paper accepted at UR 2022
 
 {% include_relative _includes/publications.md %}
 
